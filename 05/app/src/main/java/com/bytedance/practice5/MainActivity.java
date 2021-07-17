@@ -30,6 +30,7 @@ import java.util.List;
 import retrofit2.Call;
 import retrofit2.Retrofit;
 import retrofit2.converter.gson.GsonConverterFactory;
+import retrofit2.http.Url;
 
 
 public class MainActivity extends AppCompatActivity {
@@ -92,12 +93,7 @@ public class MainActivity extends AppCompatActivity {
                     new Handler(getMainLooper()).post(new Runnable() {
                         @Override
                         public void run() {
-                            if(studentId == null)  showMsgs(msgs);
-                            else{
-                                List <Message> my_msgs = new ArrayList<Message>();
-                                for(Message s : msgs) if(s.getStudentId().equals(Constants.STUDENT_ID)) my_msgs.add(s);
-                                showMsgs(my_msgs);
-                            }
+                            showMsgs(msgs);
                         }
                     });
                 }
@@ -110,13 +106,15 @@ public class MainActivity extends AppCompatActivity {
                 String.format("https://api-android-camp.bytedance.com/zju/invoke/messages/");
         List<Message> result = null;
         try {
-            URL url = new URL(urlStr);
+            URL url;
+            if(studentId!=null) url = new URL(urlStr+"?"+"student_id="+studentId);
+            else url = new URL(urlStr);
             HttpURLConnection conn = (HttpURLConnection) url.openConnection();
             conn.setConnectTimeout(6000);
 
             conn.setRequestMethod("GET");
 
-            conn.setRequestProperty("student_id",studentId);
+            //conn.setRequestProperty("student_id",studentId);
             conn.setRequestProperty("token", Constants.token);
 
             if (conn.getResponseCode() == 200) {
