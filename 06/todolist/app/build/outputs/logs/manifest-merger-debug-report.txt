@@ -1,0 +1,196 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+MERGED from [com.android.support:design:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\6f1f3503b2e97e5206bdfbd213fdf8a6\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\47c2826d3d6964871b915111754db523\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0cffe7f7b52da5ccbb74d1a12fb23a85\AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\648b6bd15c9ac68248119617539b92bd\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cad09144ed01f634e1e6336888579ef3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\03bd2130d4934bb15d28b9fd8040af83\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cb53876f8e9a6ad85fe672823e4a73e7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\7ce376f2521e308622bd2f82ebc8daf7\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b6947bf1340235df516a93b4a7217c9\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\445ffbe6037617da6b32b5b8e7380405\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\a252a34624c10b490ebf608166eeb413\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\8542240f4828fe300315622375994dda\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2521c117a5c9dc43ce659b45d0355373\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c5e6823682a3cbbc9ff4b6dfae342fa3\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2157e17678b41062523ce65c3885a388\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b4dd1800df9d8a45bee1266b397a43e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ea41a9d286370b5823e069b81c4fcb3a\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0c2ef634eed1bbfef0ac77fb801115f1\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:17:1-24:12
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1686c2ef40f44c84d530169a878c482d\AndroidManifest.xml:17:1-25:12
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\fb7dd340901adc04303cee1b409ff677\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4d910e18ef2e859053c7ed6dbbaaf71f\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2e63d39ed1612b15d7d7130d6cde7d7c\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\9b4ad356d3fdd4c021d6ecedbc68830e\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\30232f4cf84dc5aa9ce40ec919ebb476\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\5b98916b3ddd95e3d50b334eb6bd4bf5\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\35cf50ed160f9cb37e78527358e6ec66\AndroidManifest.xml:17:1-22:12
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\b61dab4ff1afeed97c698464c7adacc8\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ccbcc02b1a1cf9607d295dde95572484\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1165ed03be2e642edcbdc471f3ac4c33\AndroidManifest.xml:17:1-22:12
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c2a853c6a011709a9f34d147ae9660c3\AndroidManifest.xml:17:1-22:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+	package
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:4:5-38
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:tools
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:1-32:12
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:2:11-69
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:5-81
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:6:22-78
+application
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:8:5-30:19
+MERGED from [com.android.support:design:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\6f1f3503b2e97e5206bdfbd213fdf8a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support:design:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\6f1f3503b2e97e5206bdfbd213fdf8a6\AndroidManifest.xml:22:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0cffe7f7b52da5ccbb74d1a12fb23a85\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0cffe7f7b52da5ccbb74d1a12fb23a85\AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:22:5-94
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1686c2ef40f44c84d530169a878c482d\AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1686c2ef40f44c84d530169a878c482d\AndroidManifest.xml:22:5-23:19
+	android:appComponentFactory
+		ADDED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:22:18-91
+	android:supportsRtl
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:11:9-41
+	tools:ignore
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:15:9-48
+	android:roundIcon
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.byted.camp.todolist.MainActivity
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:16:9-25:20
+	android:label
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:18:13-45
+	android:theme
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:19:13-56
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:17:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:20:13-24:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:17-69
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:21:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:17-77
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:23:27-74
+activity#com.byted.camp.todolist.debug.DebugActivity
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:9-57
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:26:19-54
+activity#com.byted.camp.todolist.NoteActivity
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:9-50
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:27:19-47
+activity#com.byted.camp.todolist.debug.FileDemoActivity
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:9-60
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:28:19-57
+activity#com.byted.camp.todolist.debug.SpDemoActivity
+ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:9-58
+	android:name
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml:29:19-55
+uses-sdk
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+MERGED from [com.android.support:design:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\6f1f3503b2e97e5206bdfbd213fdf8a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:design:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\6f1f3503b2e97e5206bdfbd213fdf8a6\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\47c2826d3d6964871b915111754db523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:appcompat-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\47c2826d3d6964871b915111754db523\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0cffe7f7b52da5ccbb74d1a12fb23a85\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.1.3] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0cffe7f7b52da5ccbb74d1a12fb23a85\AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\648b6bd15c9ac68248119617539b92bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-fragment:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\648b6bd15c9ac68248119617539b92bd\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cad09144ed01f634e1e6336888579ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cad09144ed01f634e1e6336888579ef3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\03bd2130d4934bb15d28b9fd8040af83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:recyclerview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\03bd2130d4934bb15d28b9fd8040af83\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cb53876f8e9a6ad85fe672823e4a73e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-ui:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\cb53876f8e9a6ad85fe672823e4a73e7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\7ce376f2521e308622bd2f82ebc8daf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-core-utils:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\7ce376f2521e308622bd2f82ebc8daf7\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b6947bf1340235df516a93b4a7217c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b6947bf1340235df516a93b4a7217c9\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\445ffbe6037617da6b32b5b8e7380405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\445ffbe6037617da6b32b5b8e7380405\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\a252a34624c10b490ebf608166eeb413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:loader:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\a252a34624c10b490ebf608166eeb413\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\8542240f4828fe300315622375994dda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:viewpager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\8542240f4828fe300315622375994dda\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2521c117a5c9dc43ce659b45d0355373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:coordinatorlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2521c117a5c9dc43ce659b45d0355373\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c5e6823682a3cbbc9ff4b6dfae342fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:drawerlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c5e6823682a3cbbc9ff4b6dfae342fa3\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2157e17678b41062523ce65c3885a388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:slidingpanelayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2157e17678b41062523ce65c3885a388\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b4dd1800df9d8a45bee1266b397a43e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customview:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0b4dd1800df9d8a45bee1266b397a43e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ea41a9d286370b5823e069b81c4fcb3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:swiperefreshlayout:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ea41a9d286370b5823e069b81c4fcb3a\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0c2ef634eed1bbfef0ac77fb801115f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:asynclayoutinflater:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\0c2ef634eed1bbfef0ac77fb801115f1\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-compat:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4e277c00cc4edcde3deac931a99222b5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1686c2ef40f44c84d530169a878c482d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1686c2ef40f44c84d530169a878c482d\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\fb7dd340901adc04303cee1b409ff677\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cursoradapter:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\fb7dd340901adc04303cee1b409ff677\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4d910e18ef2e859053c7ed6dbbaaf71f\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:cardview-v7:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\4d910e18ef2e859053c7ed6dbbaaf71f\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2e63d39ed1612b15d7d7130d6cde7d7c\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\2e63d39ed1612b15d7d7130d6cde7d7c\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\9b4ad356d3fdd4c021d6ecedbc68830e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:documentfile:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\9b4ad356d3fdd4c021d6ecedbc68830e\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\30232f4cf84dc5aa9ce40ec919ebb476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:localbroadcastmanager:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\30232f4cf84dc5aa9ce40ec919ebb476\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\5b98916b3ddd95e3d50b334eb6bd4bf5\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:print:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\5b98916b3ddd95e3d50b334eb6bd4bf5\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\35cf50ed160f9cb37e78527358e6ec66\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:viewmodel:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\35cf50ed160f9cb37e78527358e6ec66\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\b61dab4ff1afeed97c698464c7adacc8\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:interpolator:28.0.0] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\b61dab4ff1afeed97c698464c7adacc8\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ccbcc02b1a1cf9607d295dde95572484\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\ccbcc02b1a1cf9607d295dde95572484\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1165ed03be2e642edcbdc471f3ac4c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\1165ed03be2e642edcbdc471f3ac4c33\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c2a853c6a011709a9f34d147ae9660c3\AndroidManifest.xml:20:5-44
+MERGED from [android.arch.core:runtime:1.1.1] C:\Users\yuan_\.gradle\caches\transforms-2\files-2.1\c2a853c6a011709a9f34d147ae9660c3\AndroidManifest.xml:20:5-44
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		ADDED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\yuan_\Desktop\sophomore\android\demos\android-campus-2021\chapter-6\Demo\todolist\app\src\main\AndroidManifest.xml
